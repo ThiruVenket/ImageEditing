@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/selectImage"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/audioreceiv"
+        android:gravity="center"
+        android:text="Select an Image"
+        android:textColor="@color/gray"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/cropImage"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/selectImage"
+        android:layout_marginBottom="5dp"
+        android:background="@color/audioreceiv"
+        android:gravity="center"
+        android:text="Crop Image"
+        android:textColor="@color/gray"
+        android:textSize="25dp"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/editImage"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/cropImage"
+        android:layout_marginBottom="5dp"
+        android:background="@color/audioreceiv"
+        android:gravity="center"
+        android:text="Edit Image"
+        android:textColor="@color/gray"
+        android:textSize="25dp"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/editImage"
+        android:layout_marginBottom="10dp" />
+</RelativeLayout>

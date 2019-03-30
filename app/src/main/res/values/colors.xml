@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="appcolor">#0277bd</color>
+    //#4682B4
+    <!--<color name="appcolor">#0000FD</color> //#4682B4-->
+    <color name="dark_green">#3e8704</color>
+    <color name="black">#000000</color>
+    <color name="black2">#272829</color>
+    <color name="green">#33FF4C</color>
+    //green #63d10c black #000000
+
+    <color name="white">#FFFFFF</color>
+    <color name="bluedesign">#0000FD</color>
+    <color name="replyback">#c1e1ff</color>
+
+    <color name="grey">#b4b5b4</color>
+    <color name="grey_dark">#949191</color>
+    <color name="lgyellow">#fafad2</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="loginbg">#3b4eb4</color>
+    <color name="transparent">#17170445</color>
+    <color name="transparent1">#52002077</color>
+    <color name="orange">#FFE56717</color>
+    <color name="description">#646400</color>
+    <color name="dark_gray">#808080</color>
+    <color name="audioreceiv">#E6E9EC</color>
+    <color name="audiosender">#93C8FF</color>
+    <color name="reply">#c9cacb</color>
+
+    <color name="red_color">#FF0000</color>
+    <color name="red_register">#d28989</color>
+    <color name="blue">#3333FF</color>
+
+    <color name="Phase">#59a7f8</color>
+    <color name="header_blue">#1C2D50</color>
+    <color name="dark_blue">#021a53</color>
+    // Right side color //
+    <color name="light_blue">#0096FF</color>
+    // Left side color //
+    <color name="grad_dark_blue">#010f28</color>
+    //#010f28
+    <color name="grad_light_blue">#021A53</color>
+
+    <color name="connected">#006600</color>
+
+
+    <color name="rose">#FB0036</color>
+    <color name="orangeyellow">#FA9623</color>
+    <!-- color of the separator line -->
+
+    <!-- background color of the number view -->
+
+
+    <color name="red">#ff4444</color>
+    <color name="grayStart">#adadad</color>
+
+
+    <color name="gray">#808080</color>
+    <color name="lightgray">#e7e7e7</color>
+    <color name="lightgray1">#f7f7f7</color>
+
+
+    <color name="blackdialog">#FF000000</color>
+    <color name="whitegrey">#FFF2F2F2</color>
+
+
+    // material design colors
+
+
+    <color name="colorPrimary">#FF03A9F4</color>
+    <color name="colorPrimaryDark">#ff0171c9</color>
+    <color name="colorAccent">#FF00E5FF</color>
+    <!--<color name="colorControlNormal">#FF78909C</color>-->
+    <!--<color name="colorControlActivated">#FF03A9F4</color>-->
+    <!--<color name="colorSwitchThumbNormal">#FF78909C</color>-->
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="colorPrimaryQuarter">#3303A9F4</color>
+    <color name="colorPrimaryHalf">#9003A9F4</color>
+    <!--<color name="colorControlNormalHalf">#9078909C</color>-->
+    <!--<color name="colorControlActivatedHalf">#9003A9F4</color>-->
+    <!--<color name="colorAccentQuarter">#3300E5FF</color>-->
+    <color name="colorAccentHalf">#9000E5FF</color>
+
+    <array name="progress_colors_light">
+        <item>#FF03A9F4</item>
+        <item>#FFD8433C</item>
+        <item>#FFF2AF3A</item>
+        <item>#FF279B5E</item>
+    </array>
+
+
+    <array name="in_colors_light">
+        <item>#4B03A9F4</item>
+        <item>#3303A9F4</item>
+        <item>#1903A9F4</item>
+    </array>
+
+    <array name="in_colors_dark">
+        <item>#4B00E5FF</item>
+        <item>#3300E5FF</item>
+        <item>#1900E5FF</item>
+    </array>
+
+    <!--<array name="progress_colors_light">-->
+    <!--<item>#FF03A9F4</item>-->
+    <!--<item>#FFD8433C</item>-->
+    <!--<item>#FFF2AF3A</item>-->
+    <!--<item>#FF279B5E</item>-->
+    <!--</array>-->
+
+    <!--<array name="progress_colors_dark">-->
+    <!--<item>#FF00E5FF</item>-->
+    <!--<item>#ffd81d5a</item>-->
+    <!--<item>#fff27512</item>-->
+    <!--<item>#ff63bc34</item>-->
+    <!--</array>-->
+
+    <!--<array name="in_colors_light">-->
+    <!--<item>#4B03A9F4</item>-->
+    <!--<item>#3303A9F4</item>-->
+    <!--<item>#1903A9F4</item>-->
+    <!--</array>-->
+
+    <!--<array name="in_colors_dark">-->
+    <!--<item>#4B00E5FF</item>-->
+    <!--<item>#3300E5FF</item>-->
+    <!--<item>#1900E5FF</item>-->
+    <!--</array>-->
+
+    <!--<color name="tpi_checked">#FFFFFFFF</color>-->
+    <!--<color name="tpi_unchecked">#99FFFFFF</color>-->
+
+    <!--<color name="et_divider_focused">@color/colorControlActivated</color>-->
+    <!--<color name="et_divider_not_focused">#FF6D6D6D</color>-->
+    <!--<color name="et_divider_disable">#FFC1C1C1</color>-->
+
+    <color name="fontcolor">#091d2e</color>
+    <color name="newdarkblue">#003760</color>
+    <color name="neworange">#ff5534</color>
+    <color name="newyellow">#fea500</color>
+    <color name="newgreen">#48dc6c</color>
+    <color name="newwhite">#f4f4f4</color>
+    <color name="newskyblue">#0293Fe</color>
+
+
+    <color name="rednew">#b71c1c</color>
+    <color name="pinknew">#880e4f</color>
+    <color name="purplenew">#4a148c</color>
+    <color name="deeppurplenew">#311b92</color>
+    <color name="indigonew">#1a237e</color>
+    <color name="bluenew">#0d47a1</color>
+    <color name="cyannew">#006064</color>
+    <color name="tealnew">#004d40</color>
+    <color name="lightgreennew">#33691e</color>
+    <color name="limeneew">#827717</color>
+    <color name="yellownew">#f57f17</color>
+    <color name="ambernew">#ff6f00</color>
+    <color name="orangenew">#e65100</color>
+    <color name="deeporangenew">#bf360c</color>
+    <color name="brownnew">#3e2723</color>
+    <color name="graynew">#424242</color>
+    <color name="bluegraynew">#37474f</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="windowBackground">#1C1C1C</color>
+
+    //Added For FOG
+    <!--Fog Used color code-->
+    <color name="bg_color_btn">#5E67A0</color>
+    <color name="my_navy_light">#BEC2E5</color>
+    <color name="my_navy">#313653</color>
+    <color name="my_blue">#6B75B2</color>
+    <color name="Note_color">#BEC2E5</color>
+    <color name="greennew">#1b5e20</color>
+
+    <color name="event_color_01">#59dbe0</color>
+    <color name="event_color_02">#f57f68</color>
+    <color name="event_color_03">#87d288</color>
+    <color name="event_color_04">#f8b552</color>
+    <color name="toolbar">#efefef</color>
+    <color name="toolbar_text">#8f000000</color>
+    <color name="accent">#2789e4</color>
+
+    <color name="Green_Color">#3BCD4F</color>
+    <color name="Color_Yellow">#EAAF3B</color>
+    <color name="Color_OverDue_Planned">#FF4500</color>
+    <color name="Color_Deleyed">#8B0000</color>
+    <color name="Color_Inprogress">#006400</color>
+    <color name="Color_Closed">#66A0E0</color>
+    <color name="Color_AbandonedPauseSuspend">#808080</color>
+    <color name="Color_Planned">#FFA500</color>
+
+    <color name="me_user">#c0e6fa</color>
+    <color name="me_user_border">#50bae8</color>
+
+
+    <color name="border_remindernew">#ed8f91</color>
+    <color name="remindernew">#f6babb</color>
+
+    <color name="yellowlayoutborder">#fdd869</color>
+    <color name="yellowlayout">#feecaf</color>
+
+
+    <color name="startcolor">#FB0036</color>
+    <color name="endcolor">#FA9623</color>
+
+    <color name="startbluecolor">#1d2b58</color>
+    <color name="endbluecolor">#101d47</color>
+
+
+</resources>
