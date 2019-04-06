@@ -91,7 +91,7 @@ public class Edit_Image_Activity extends Activity implements View.OnClickListene
     private void setImageToDrawingView() {
         Bitmap board;
 
-        /*String[] filePathColumn = {MediaStore.Images.Media.DATA};
+        String[] filePathColumn = {MediaStore.Images.Media.DATA};
 //        Cursor cursor = getContentResolver().query(SelectedImageUri, filePathColumn, null, null, null);
         Cursor cursor = managedQuery(SelectedImageUri, filePathColumn, null, null, null);
         assert cursor != null;
@@ -99,7 +99,7 @@ public class Edit_Image_Activity extends Activity implements View.OnClickListene
 
         int columnIndex = cursor.getColumnIndex(filePathColumn[0]);
         String picturePath = cursor.getString(columnIndex);
-        cursor.close();*/
+        cursor.close();
 
         board = BitmapFactory.decodeFile(SelectedImagePath);
         int h = drawingView.getHeight(); // 320; // Height in pixels
